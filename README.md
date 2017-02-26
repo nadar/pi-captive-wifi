@@ -8,6 +8,8 @@ sudo nano /etc/dnsmasq.conf
 address=/#/172.24.1.1
 ```
 
+sudo /etc/init.d/dnsmasq restart
+
 sudo nano /etc/resolve.conf
 
 ```
